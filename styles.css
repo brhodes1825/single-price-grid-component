@@ -48,9 +48,16 @@ body {
 }
 
 .left {
+  width: 50%;
   background-color: var(--teal500);
 }
 
 .right {
+  width: 50%;
   background-color: var(--green400);
+}
+
+.cost {
+  display: flex;
+  align-items: center;
 }
