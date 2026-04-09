@@ -43,6 +43,23 @@ body {
   padding: 2rem 1.75rem;
 }
 
+.header {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--teal500);
+}
+
+.guarantee {
+  font-size: 1.25rem;
+  color: var(--green400);
+}
+
+.info {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: var(--gray500);
+}
+
 .bottom {
   display: flex;
   width: 100%;
@@ -55,13 +72,52 @@ body {
   padding: 2rem 1.75rem;
 }
 
+.subscription {
+  font-size: 1.25rem;
+  color: white;
+}
+
 .cost {
   display: flex;
   align-items: center;
+}
+
+.number {
+  font-size: 2rem;
+  color: white;
+}
+
+.monthly {
+  color: var(--gray500);
+}
+
+.breakdown {
+  font-size: 1rem;
+  color: var(--gray500);
+}
+
+a {
+  background-color: var(--green400);
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+  text-decoration: none;
+  padding: 1rem 3rem;
 }
 
 .right {
   width: 50%;
   background-color: var(--teal500a);
   padding: 2rem 1.75rem;
+}
+
+.us {
+  font-size: 1.25rem;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  font-size: .85rem;
+  color: var(--gray500);
 }
