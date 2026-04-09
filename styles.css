@@ -6,7 +6,7 @@
 :root {
   /* Primary */
 --teal500: hsl(179, 62%, 43%);
---teal500a: hsla(179, 62%, 43%, 0.5);
+--teal500a: hsla(179, 62%, 43%, 0.7);
 --green400: hsl(71, 73%, 54%);
 
 /* Neutral */
@@ -35,6 +35,7 @@ body {
   display: flex;
   flex-direction: column;
   border-radius: 1rem;
+  font-family: "Karla";
 }
 
 .top {
@@ -120,5 +121,5 @@ a {
 li {
   list-style-type: none;
   font-size: .85rem;
-  color: var(--gray500);
+  color: white;
 }
