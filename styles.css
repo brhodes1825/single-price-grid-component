@@ -6,7 +6,7 @@
 :root {
   /* Primary */
 --teal500: hsl(179, 62%, 43%);
---teal500a: hsla(179, 62%, 43%, 0.7);
+--teal500a: hsla(179, 62%, 43%, 0.8);
 --green400: hsl(71, 73%, 54%);
 
 /* Neutral */
