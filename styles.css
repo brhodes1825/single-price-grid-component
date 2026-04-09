@@ -34,6 +34,7 @@ body {
   height: 30rem;
   display: flex;
   flex-direction: column;
+  border-radius: 1rem;
 }
 
 .top {
