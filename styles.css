@@ -90,12 +90,12 @@ body {
 }
 
 .monthly {
-  color: var(--gray500);
+  color: white;
 }
 
 .breakdown {
   font-size: 1rem;
-  color: var(--gray500);
+  color: white;
 }
 
 a {
