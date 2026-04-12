@@ -171,6 +171,7 @@ li {
   .bottom {
     flex-direction: column;
     height: 65%;
+    width: 100%;
   }
 
   .left {
