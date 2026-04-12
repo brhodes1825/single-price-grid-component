@@ -41,7 +41,7 @@ body {
   width: 100%;
   height: 45%;
   background-color: white;
-  padding: 3rem 2rem;
+  padding: 2.8rem 2.5rem;
   border-radius: .5rem .5rem 0 0;
 }
 
@@ -49,11 +49,11 @@ body {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--teal500);
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .guarantee {
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 700;
   color: var(--green400);
   margin-bottom: 1rem;
@@ -75,7 +75,7 @@ body {
 .left {
   width: 50%;
   background-color: var(--teal500);
-  padding: 3rem 2rem;
+  padding: 2.8rem 2.5rem;
   border-radius: 0 0 0 .5rem;
 }
 
@@ -83,17 +83,18 @@ body {
   font-size: 1rem;
   color: white;
   font-weight: 700;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.125rem;
 }
 
 .cost {
   display: flex;
   align-items: center;
-  margin-bottom: 1rem;
+  gap: .75rem;
+  margin-bottom: .5rem;
 }
 
 .number {
-  font-size: 1.8rem;
+  font-size: 1.925rem;
   font-weight: 700;
   color: white;
 }
@@ -118,6 +119,7 @@ a {
   text-decoration: none;
   padding: 1rem 3rem;
   border-radius: .5rem;
+  width: 100%;
 }
 
 .right {
