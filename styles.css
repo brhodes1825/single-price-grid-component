@@ -152,7 +152,7 @@ li {
   }
 
   .top {
-    height: 30%;
+    height: 35%;
     padding: 2rem 1.5rem;
   }
 
@@ -170,7 +170,7 @@ li {
 
   .bottom {
     flex-direction: column;
-    height: 70%;
+    height: 65%;
   }
 
   .left {
