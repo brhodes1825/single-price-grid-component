@@ -148,7 +148,7 @@ li {
 @media only screen and (max-width: 1100px){
   .card {
     width: 20rem;
-    height: 55rem;
+    height: 50rem;
   }
 
   .top {
@@ -157,15 +157,15 @@ li {
   }
 
   .header {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .guarantee {
-    font-size: .9rem;
+    font-size: 1rem;
   }
 
   .info {
-    font-size: .8rem;
+    font-size: .9rem;
   }
 
   .bottom {
@@ -174,7 +174,7 @@ li {
   }
 
   .left {
-    padding: 2rem 1.5rem;
+    padding: 1.5rem 1rem 1rem 1rem;
     border-radius: 0;
     width: 100%;
   }
@@ -182,6 +182,10 @@ li {
   .right {
     padding: 2rem 1.5rem;
     border-radius: 0 0 .5rem .5rem;
+    width: 100%;
+  }
+
+  a {
     width: 100%;
   }
 
